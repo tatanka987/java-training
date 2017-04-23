@@ -2,6 +2,7 @@ package com.tereha.java.training.rx;
 
 import rx.Observable;
 import rx.Observer;
+import rx.functions.Action1;
 import rx.functions.Func1;
 
 /**
